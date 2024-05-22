@@ -37,6 +37,6 @@ const FoodDetail = ({ }) => {
 
 
 
-}
+} 
 
 export default FoodDetail
